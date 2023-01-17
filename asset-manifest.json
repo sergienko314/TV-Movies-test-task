@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TV-Movies-test-task/static/css/main.44dc2442.css",
-    "main.js": "/TV-Movies-test-task/static/js/main.54bc9deb.js",
+    "main.js": "/TV-Movies-test-task/static/js/main.149507d2.js",
     "static/media/ferstBanerImg.jpg": "/TV-Movies-test-task/static/media/ferstBanerImg.dd5608de34eaa961d0bf.jpg",
     "static/media/RegistrationBaner.png": "/TV-Movies-test-task/static/media/RegistrationBaner.406b5281ad95406995b9.png",
     "static/media/hero.jpg": "/TV-Movies-test-task/static/media/hero.0edff1b69b448948765d.jpg",
@@ -26,10 +26,10 @@
     "static/media/search.svg": "/TV-Movies-test-task/static/media/search.55f87a6b2abc6f24cfee102fbd5d9019.svg",
     "static/media/star.svg": "/TV-Movies-test-task/static/media/star.33a84baeb112424713e711095d481ad6.svg",
     "main.44dc2442.css.map": "/TV-Movies-test-task/static/css/main.44dc2442.css.map",
-    "main.54bc9deb.js.map": "/TV-Movies-test-task/static/js/main.54bc9deb.js.map"
+    "main.149507d2.js.map": "/TV-Movies-test-task/static/js/main.149507d2.js.map"
   },
   "entrypoints": [
     "static/css/main.44dc2442.css",
-    "static/js/main.54bc9deb.js"
+    "static/js/main.149507d2.js"
   ]
 }
