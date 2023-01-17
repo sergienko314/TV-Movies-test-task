@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/TV-Movies-test-task/static/css/main.44dc2442.css",
+    "main.js": "/TV-Movies-test-task/static/js/main.8e43888a.js",
+    "static/media/ferstBanerImg.jpg": "/TV-Movies-test-task/static/media/ferstBanerImg.dd5608de34eaa961d0bf.jpg",
+    "static/media/RegistrationBaner.png": "/TV-Movies-test-task/static/media/RegistrationBaner.406b5281ad95406995b9.png",
+    "static/media/hero.jpg": "/TV-Movies-test-task/static/media/hero.0edff1b69b448948765d.jpg",
+    "static/media/6.png": "/TV-Movies-test-task/static/media/6.f41c926fc799f60270b6.png",
+    "static/media/3.png": "/TV-Movies-test-task/static/media/3.7eac1e71363c10970524.png",
+    "static/media/5.png": "/TV-Movies-test-task/static/media/5.ca9eb4cb618a8f790c38.png",
+    "static/media/4.png": "/TV-Movies-test-task/static/media/4.f8bca1bfb039f281f435.png",
+    "static/media/1.png": "/TV-Movies-test-task/static/media/1.f10c0c3f26ea5263f256.png",
+    "static/media/2.png": "/TV-Movies-test-task/static/media/2.42f6b1625382d2e6cd3a.png",
+    "static/media/img2021.svg": "/TV-Movies-test-task/static/media/img2021.947b41251847bca86de53f6deebb778a.svg",
+    "static/media/6.jpg": "/TV-Movies-test-task/static/media/6.23c61fc10779a9e44f72.jpg",
+    "static/media/4.jpg": "/TV-Movies-test-task/static/media/4.5b2534999817658e5be2.jpg",
+    "static/media/1.jpg": "/TV-Movies-test-task/static/media/1.c6640427064964723de6.jpg",
+    "static/media/5.jpg": "/TV-Movies-test-task/static/media/5.01c57041ad8c1aeaed3a.jpg",
+    "static/media/2.jpg": "/TV-Movies-test-task/static/media/2.f6506def0af162dea41d.jpg",
+    "static/media/symbol-defs.svg": "/TV-Movies-test-task/static/media/symbol-defs.4b14266a2d57daeb514373a45779e219.svg",
+    "static/media/3.jpg": "/TV-Movies-test-task/static/media/3.b8a5adf4c3af6658bece.jpg",
+    "static/media/bell.svg": "/TV-Movies-test-task/static/media/bell.7a226c319552a86154303261d48ee97c.svg",
+    "static/media/auth.svg": "/TV-Movies-test-task/static/media/auth.97f893eb91174006f73b087a285be1fd.svg",
+    "static/media/sprite.svg": "/TV-Movies-test-task/static/media/sprite.daafad91910ef5df5e5e33150e1468a2.svg",
+    "index.html": "/TV-Movies-test-task/index.html",
+    "static/media/search.svg": "/TV-Movies-test-task/static/media/search.55f87a6b2abc6f24cfee102fbd5d9019.svg",
+    "static/media/star.svg": "/TV-Movies-test-task/static/media/star.33a84baeb112424713e711095d481ad6.svg",
+    "main.44dc2442.css.map": "/TV-Movies-test-task/static/css/main.44dc2442.css.map",
+    "main.8e43888a.js.map": "/TV-Movies-test-task/static/js/main.8e43888a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44dc2442.css",
+    "static/js/main.8e43888a.js"
+  ]
+}
