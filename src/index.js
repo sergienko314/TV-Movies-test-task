@@ -7,7 +7,7 @@ import "./index.css";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/TV-Movies-test-task/">
+    <BrowserRouter basename="TV-Movies-test-task">
       <App />
     </BrowserRouter>
   </React.StrictMode>
