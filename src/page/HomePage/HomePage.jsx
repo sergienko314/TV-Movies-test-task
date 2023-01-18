@@ -27,16 +27,16 @@ const HomePage = () => {
         <Header />
 
         <Main>
-          <SectionHero>
+          <SectionHero id="Home" >
             <Hero />
           </SectionHero>
-          <SectionTrendingTVShows>
+          <SectionTrendingTVShows id="TVShows">
             <TrendingTVShows>Trending TV Shows</TrendingTVShows>
           </SectionTrendingTVShows>
-          <SectionTrendingMovies>
+          <SectionTrendingMovies id="Movies">
             <TrendingMovies>Trending Movies</TrendingMovies>
           </SectionTrendingMovies>
-          <SectionCategories>
+          <SectionCategories id="Series">
             <Categories>Popular Genres</Categories>
           </SectionCategories>
           <SectionActors>

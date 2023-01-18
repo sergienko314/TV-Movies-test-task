@@ -1,10 +1,10 @@
-import { ItemNav, LinkItemNav, ListNav, NavStyled } from './AppBar.styled';
+import { ItemNav, LinkItemNav, ListNav, NavStyled } from "./AppBar.styled";
 
 const navItems = [
-  { href: '/', text: 'Home', icon: null },
-  { href: '/tv', text: 'TV Shows', icon: null },
-  { href: '/movies', text: 'Movies', icon: null },
-  { href: '/series', text: 'Series', icon: null },
+  { href: "/", text: "Home", to: "Home", icon: null },
+  { href: "/tv", text: "TV Shows", to: "TVShows", icon: null },
+  { href: "/movies", text: "Movies", to: "Movies", icon: null },
+  { href: "/series", text: "Series", to: "Series", icon: null },
 ];
 
 const AppBar = () => {
@@ -12,9 +12,18 @@ const AppBar = () => {
     <>
       <NavStyled>
         <ListNav>
-          {navItems.map(({ href, text }) => (
+          {navItems.map(({ href, text, to }) => (
             <ItemNav key={href}>
-              <LinkItemNav to={href} title={text}>
+              <LinkItemNav
+               activeClass="any"
+                to={to}
+                title={text}
+                spy={true}
+                smooth={true}
+                offset={-120}
+                duration={500}
+                
+              >
                 {text}
               </LinkItemNav>
             </ItemNav>

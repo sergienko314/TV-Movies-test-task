@@ -1,6 +1,5 @@
-import { NavLink } from 'react-router-dom';
-import styled from 'styled-components';
-
+import styled from "styled-components";
+import { Link } from "react-scroll";
 export const NavStyled = styled.nav``;
 
 export const ListNav = styled.ul`
@@ -17,11 +16,11 @@ export const ItemNav = styled.li`
   position: relative;
 `;
 
-export const LinkItemNav = styled(NavLink)`
+export const LinkItemNav = styled(Link)`
   display: inline-flex;
 
   align-items: center;
-  font-family: 'Mulish';
+  font-family: "Mulish";
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -33,11 +32,13 @@ export const LinkItemNav = styled(NavLink)`
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   color: #ffffff;
   opacity: 0.5;
-  &.active {
+  cursor: pointer;
+
+  &.any {
     opacity: 1;
     font-weight: 800;
-    &::after {
-      content: '';
+    ::after {
+      content: "";
       position: absolute;
       bottom: -5px;
       left: 0;
