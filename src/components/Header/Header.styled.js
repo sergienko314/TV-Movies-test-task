@@ -5,7 +5,12 @@ export const HeaderWrapper = styled.header`
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   position: sticky;
   top: 0px;
+  /* width: 1600px; */
+  margin-left: auto;
+  margin-right: auto;
   z-index: 100;
+  /* padding: 0px;
+  margin: 0; */
   margin-left: -80px;
   margin-right: -80px;
   padding-left: 80px;
@@ -13,7 +18,6 @@ export const HeaderWrapper = styled.header`
 `;
 
 export const Wrapper = styled.div`
-  margin-right: 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
