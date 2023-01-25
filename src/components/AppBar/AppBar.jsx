@@ -1,5 +1,8 @@
 import { ItemNav, LinkItemNav, ListNav, NavStyled } from "./AppBar.styled";
 
+import { useEffect, useState } from "react";
+ 
+
 const navItems = [
   { href: "/", text: "Home", to: "Home", icon: null },
   { href: "/tv", text: "TV Shows", to: "TVShows", icon: null },
@@ -8,6 +11,7 @@ const navItems = [
 ];
 
 const AppBar = () => {
+
   return (
     <>
       <NavStyled>
